@@ -1,4 +1,0 @@
-prometheus:
-  prometheusSpec:
-    externalUrl: http://gateway.ngrok-free.dev/prometheus
-    routePrefix: /prometheus
